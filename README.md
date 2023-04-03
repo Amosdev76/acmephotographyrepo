@@ -1,6 +1,10 @@
 # acmephotographyrepo
 Responsive website
 
-you can find the website online here: 
+tech stack:
+html/css(vanilla)
+jquery
+
+you can find the website  here: 
 
 https://aphotography.netlify.app/
